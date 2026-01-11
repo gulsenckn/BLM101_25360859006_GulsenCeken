@@ -34,9 +34,9 @@ Bilgisayar Mühendisliğine Giriş Proje Açıklaması ve Algoritma Mantığı
 
 - Ardışık tekrar eden karakterleri sayısal özetlerle sıkıştırarak (Encode) veri boyutunu azaltır.
 
-- Sıkıştırılmış veriyi tekrar orijinal haline (Decode) dönüştürür.
+- Sıkıştırılmış veriyi tekrar orijinal haline (decode) dönüştürür.
 
-- Elde edilen sıkıştırma oranını (%) hesaplayarak verimliliği raporlar.
+- Elde edilen sıkıştırma oranını (%) hesaplayarak verimliliği raporlar. 
 
 
 
