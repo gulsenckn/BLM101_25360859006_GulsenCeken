@@ -4,6 +4,13 @@ Bilgisayar Mühendisliğine Giriş Proje Açıklaması ve Algoritma Mantığı
 
 **Hazırlayan:** Gülşen Çeken (25360859006) 
 
+**Sunum Videosu**
+
+*Youtube Linki:* 
+
+[Videoyu İzlemek İçin Tıklayın](https://youtu.be/jOyX7EhBL4Y?si=e1izFW_mqRyUryn_)
+
+
 **Proje Özeti:** Bu proje, bilgisayar bilimlerinin temelini oluşturan verilerin dijital ortamda nasıl temsil edildiği ve depolama verimliliğinin nasıl artırıldığı üzerine odaklanmaktadır. Çalışma kapsamında teorik bilgiler ve pratik bir Python uygulaması bir araya getirilmiştir.
 
 
